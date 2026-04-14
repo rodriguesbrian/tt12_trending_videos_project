@@ -158,3 +158,5 @@ Atualização: **diária (UTC 00:00)**
 ```bash
 git clone https://github.com/rodriguesbrian/tt12_trending_videos.git
 cd tt12_trending_videos
+
+2. Abra o dashboard (arquivo .twbx ou .pbix) na ferramenta correspondente.
