@@ -145,9 +145,7 @@ Atualização: **diária (UTC 00:00)**
 
 ## 🚀 Tecnologias Utilizadas
 
-- SQL (extração e agregação)
 - Tableau / Power BI (visualização)
-- Modelagem de dados agregados
 
 ---
 
